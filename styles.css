@@ -1,0 +1,58 @@
+body {
+    background-color: white;
+}
+ /* Header */
+header {
+    background-color: lightgrey;
+    padding-top: 3%;
+    padding-bottom: 1%;
+    color: white;
+    font-size: 20px;
+}
+
+/* Headings */
+h1 {
+    color: black;
+    margin-left: 20%;
+    margin-right: 10%;
+    font-family: "Trebuchet MS";
+}
+
+h2 {
+    color: black;
+    font-family: "Trebuchet MS";
+}
+
+h3 {
+    color: black;
+    margin-top: -2%;
+    margin-left: 20%;
+    margin-right: 10%;
+    font-family: "Trebuchet MS";
+}
+
+/* Create two columns/boxes that floats next to each other */
+article {
+    float: left;
+    width: 30%;
+    padding-left: 20%;
+    padding-top: 5%;
+}
+
+article.contacts {
+    padding-left: 0%;
+    padding-right: 15%;
+}
+
+
+/* Paragraphs */
+p {
+    color: black;
+    width: 60%;
+    font-family: "Trebuchet MS";
+}
+
+img {
+    width: 50%;
+    border-radius: 50%;
+}
